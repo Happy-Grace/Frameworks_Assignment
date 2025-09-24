@@ -29,7 +29,7 @@ We use the **metadata.csv** file from the [CORD-19 Research Challenge Dataset](h
 - Authors and publication dates  
 - Journals and sources  
 
-> **Note**: This app only uses the `metadata.csv` file. No need to download the full dataset.
+> **Note**: Make sure to download the `metadata.csv` file.
 
 ---
 
@@ -104,6 +104,7 @@ Frameworks_Assignment/
 ├── app.py                        # Main Streamlit app
 ├── requirements.txt              # All required Python packages
 └── README.md                     # Project overview and setup guide
+> **Note**: After cloning te repository, create a directory/folder named `data` and save the downloaded `metadata.csv` file in it.
  
 ```
 
